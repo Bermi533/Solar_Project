@@ -1,5 +1,4 @@
-The workflow for this is based on chapters 11-12-12 from the book _Physics of the Solar Corona: An Introduction with Problems and Solutions_. However, here are some 
-useful resources used for conceptual keypoints:
+The workflow here is based on Chapters 11–13 of the book _Physics of the Solar Corona: An Introduction with Problems and Solutions_. Additionally, the following resources may be useful for understanding key concepts:
 
 ## Bibliography
 
