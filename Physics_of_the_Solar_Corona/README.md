@@ -21,26 +21,28 @@ The workflow here is based on Chapters 11–13 of the book _Physics of the Solar
 
 > **BibTeX**
 > ```bibtex
-@article{Benz2017,
-  author  = {Benz, Arnold O.},
-  title   = {Flare Observations},
-  journal = {Living Reviews in Solar Physics},
-  volume  = {14},
-  number  = {2},
-  year    = {2017},
-  doi     = {10.1007/s41116-016-0004-3}
+>@article{Benz2017,
+>  author  = {Benz, Arnold O.},
+>  title   = {Flare Observations},
+>  journal = {Living Reviews in Solar Physics},
+>  volume  = {14},
+>  number  = {2},
+>  year    = {2017},
+>  doi     = {10.1007/s41116-016-0004-3}
+>}
 > ```
 
 -Jeffrey, N. L. S. (2014). *The spatial, spectral and polarization properties of solar flare X-ray sources*. [arXiv:1412.8163](https://arxiv.org/abs/1412.8163)
 
 > **BibTeX**
 > ```bibtex
-@misc{jeffrey2014spatial,
-  author       = {Natasha L. S. Jeffrey},
-  title        = {The spatial, spectral and polarization properties of solar flare X-ray sources},
-  year         = {2014},
-  archivePrefix= {arXiv},
-  eprint       = {1412.8163},
-  primaryClass = {astro-ph.SR},
-  url          = {https://arxiv.org/abs/1412.8163}}
-> 
+>@misc{jeffrey2014spatial,
+>  author       = {Natasha L. S. Jeffrey},
+>  title        = {The spatial, spectral and polarization properties of solar flare X-ray sources},
+>  year         = {2014},
+>  archivePrefix= {arXiv},
+>  eprint       = {1412.8163},
+>  primaryClass = {astro-ph.SR},
+>  url          = {https://arxiv.org/abs/1412.8163}
+>}
+> ```
