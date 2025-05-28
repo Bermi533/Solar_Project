@@ -2,7 +2,7 @@ The workflow here is based on Chapters 11–13 of the book _Physics of the Solar
 
 ## Bibliography
 
-– Aschwanden, M. J. (2006). _Physics of the Solar Corona: An Introduction with Problems and Solutions_ (2nd ed.). Springer: New York.
+- Aschwanden, M. J. (2006). _Physics of the Solar Corona: An Introduction with Problems and Solutions_ (2nd ed.). Springer: New York.
 
 > **BibTeX**  
 > ```bibtex
@@ -32,7 +32,7 @@ The workflow here is based on Chapters 11–13 of the book _Physics of the Solar
 >}
 > ```
 
--Jeffrey, N. L. S. (2014). *The spatial, spectral and polarization properties of solar flare X-ray sources*. [arXiv:1412.8163](https://arxiv.org/abs/1412.8163)
+- Jeffrey, N. L. S. (2014). *The spatial, spectral and polarization properties of solar flare X-ray sources*. [arXiv:1412.8163](https://arxiv.org/abs/1412.8163)
 
 > **BibTeX**
 > ```bibtex
